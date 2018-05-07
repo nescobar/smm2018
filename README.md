@@ -1,7 +1,5 @@
 # smm2018
-Social Media Mining on Twitter
-Analysis of the aftermath of a Natural Disaster: A Case Study on Hurricane Harvey
-
+## Analysis of the Aftermath of a Natural Disaster: A Case Study on Hurricane Harvey
 
 - The Jupyter Notebook code/smm_twitter_analysis_harvey.ipynb contains all the code for the pre-processing,
 model training, evaluation and prediction. It also includes the results and visualizations.
